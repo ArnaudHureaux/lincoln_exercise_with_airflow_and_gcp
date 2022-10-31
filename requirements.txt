@@ -1,0 +1,4 @@
+pandas
+gcsfs
+google-cloud-storage
+airflow
